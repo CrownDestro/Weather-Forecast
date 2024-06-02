@@ -46,7 +46,7 @@ body{
     color: #000;
 }
 .search-button{
-    background-image: url('search.png');
+    background-image: url('assets/search.png');
     background-size: contain;
     background-color: #e6f5fb;
     border-radius: 40%;
