@@ -1,4 +1,5 @@
 # Weather-Forecast
+A clean and simple Interface where you the get today's weather info of any part of the world you wish.
 This App allows users to enter a city name to retrieve and display **current weather data**, including **temperature**, weather description, **humidity**, and **wind speed**, while handling errors and updating weather icons based on the conditions retrieved from the OpenWeatherMap API.
 
 ## Major Functionalities of the Weather App
